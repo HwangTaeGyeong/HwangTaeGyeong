@@ -21,13 +21,14 @@
 
 
 ## 🚀 Featured Projects
-- [근무표 & 휴가 일정 공유 웹앱](https://github.com/yourrepo) - Spring Boot 기반, AI API 활용
-- [네이버 API 검색 서비스](https://github.com/yourrepo) - REST API 연동 실습
-- [알고리즘 문제풀이 기록](https://github.com/yourrepo) - Baekjoon, Programmers 풀이 모음
+- [근무표 & 휴가 일정 공유 웹앱](https://github.com/) - Spring Boot 기반, AI API 활용
+- [네이버 API 검색 서비스](https://github.com/) - REST API 연동 실습
+- [알고리즘 문제풀이 기록](https://github.com/HwangTaeGyeong/Algorithm) - Baekjoon, Programmers 풀이 모음
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/guilds/HwangtaeGyeong/draw"/>
+  <img src="https://render.gitanimals.org/lines/HwangTaeGyeong?pet-id=4" width="1000" height="200"
+  <img src="https://render.gitanimals.org/guilds/HwangTaeGyeong/draw"/>
 </a>
 
 
