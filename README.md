@@ -2,15 +2,22 @@
 백엔드 개발자를 준비 중이며, Java & Spring을 중심으로 성장하고 있습니다.  
 꾸준한 학습과 협업 경험을 바탕으로 사용자 친화적인 서비스를 만드는 것이 목표입니다.
 
+
+
+
 ## 🛠️ Tech Stack
 - **Languages**: Java, Python, JavaScript  
 - **Frameworks**: Spring Boot, JPA/Hibernate  
 - **Databases**: MySQL, MongoDB  
 - **Tools**: Git, Docker, IntelliJ, VSCode
 
+
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+
+
 
 
 ## 🚀 Featured Projects
@@ -20,8 +27,10 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/HwangTaeGyeong?pet-id=1" width="1000" height="120"/>
 </a>
+
+
 
 ## 📫 Contact
 - Email: your.email@example.com  
